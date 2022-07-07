@@ -127,43 +127,6 @@ body {
   font-size: 30px;
 }
 
-/*
-.btn-1:hover {
-  border: 2px darkturquoise solid;
-  color: darkturquoise;
-}
-
-.btn-2:hover {
-  border: 2px darkturquoise solid;
-  color: darkturquoise;
-}
-
-.btn-3:hover {
-  border: 2px darkturquoise solid;
-  color: darkturquoise;
-}
-
-.btn-4:hover {
-  border: 2px darkturquoise solid;
-  color: darkturquoise;
-}
-
-.btn-4:hover {
-  border: 2px darkturquoise solid;
-  color: darkturquoise;
-}
-
-.btn-5:hover {
-  border: 2px darkturquoise solid;
-  color: darkturquoise;
-}
-
-.btn-6:hover {
-  border: 2px darkturquoise solid;
-  color: darkturquoise;
-}
-*/
-
 input {
   border: none;
   border-bottom: 1px solid black;
@@ -231,16 +194,18 @@ input {
 }
 
 footer {
-  height: 70px;
+  height: 90px;
   background-color: #0B0D17;
   margin-bottom: 0;
   padding-bottom: 0;
   text-align: center;
   border-bottom: 10px solid #0B0D17;
+  ;
 }
 
 footer>h1 {
   color: coral;
+  font-family: 'Rajdhani', sans-serif;
 }
 
 footer>p {
