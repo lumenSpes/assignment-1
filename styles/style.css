@@ -85,7 +85,7 @@ body {
   font-size: 30px;
 }
 
-input {
+.amount-in-tk {
   border: none;
   border-bottom: 1px solid black;
   margin-top: 50px;
@@ -168,4 +168,75 @@ footer>h1 {
 
 footer>p {
   color: white;
+}
+
+.work-demo {
+  display: flex;
+  padding-left: 80px;
+}
+
+
+.img-1 {
+  height: 80%;
+  width: 60%;
+}
+
+.img-2 {
+  height: 80%;
+  width: 70%;
+}
+
+.img-3 {
+  height: 80%;
+  width: 80%;
+}
+
+.post {
+  margin-top: 70px;
+}
+
+.post-heading {
+  font-size: 50px;
+  text-align: center;
+}
+
+.post-link {
+  text-decoration: none;
+  text-align: justify;
+  font-size: 20px;
+  color: black;
+}
+
+.newsletter {
+  margin-left: 330px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.subscribe {
+  align-items: center;
+  justify-content: center;
+  margin-left: 315px;
+  margin-right: 315px;
+  background-color: rgb(224, 152, 101);
+}
+
+.subs-text {
+  text-align: center;
+}
+
+.subs-text>h1 {
+  font-size: 50px;
+}
+
+.subs-text>p {
+  font-size: 30px;
+}
+
+.sub-btn {
+  border: none;
+}
+
+.email-in {
+  padding: 8px 20px;
 }
